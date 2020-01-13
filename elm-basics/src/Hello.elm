@@ -379,7 +379,7 @@ names =
 
 
 
--- gives [Aadam, Mike, John]
+-- gives "Aadam, John, Mike"
 
 
 xxx =
